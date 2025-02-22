@@ -10,5 +10,5 @@
   "Calm": { "by": "sourdoggy" },
   "Floral": { "by": "sourdoggy" },
   "Sad": { "by": "sourdoggy" },
-  "Human": { "by": "jarn" }
+  "Human": { "by": "jarn", "community": true }
 }
